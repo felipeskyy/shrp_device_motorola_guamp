@@ -17,7 +17,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/twrp_guamp.mk
+     $(LOCAL_DIR)/shrp_guamp.mk
 
 COMMON_LUNCH_CHOICES := \
     shrp_guamp-user \
