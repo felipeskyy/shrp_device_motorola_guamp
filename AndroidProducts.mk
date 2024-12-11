@@ -20,6 +20,6 @@ PRODUCT_MAKEFILES := \
      $(LOCAL_DIR)/twrp_guamp.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_guamp-user \
-    twrp_guamp-userdebug \
-    twrp_guamp-eng
+    shrp_guamp-user \
+    shrp_guamp-userdebug \
+    shrp_guamp-eng
