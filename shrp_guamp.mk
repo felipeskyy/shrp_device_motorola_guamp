@@ -33,7 +33,7 @@ PRODUCT_RELEASE_NAME := guamp
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := guamp
-PRODUCT_NAME := twrp_guamp
+PRODUCT_NAME := shrp_guamp
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := moto g(9)
 PRODUCT_MANUFACTURER := motorola
